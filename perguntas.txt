@@ -1,0 +1,159 @@
+Pergunta 1: O que é a média de um conjunto de dados?
+Opções: A) A soma de todos os valores dividida pelo número de valores / B) O valor mais frequente / C) O maior valor do conjunto / D) O menor valor do conjunto 
+Resposta: A 
+
+Pergunta 2: Como é calculado o desvio padrão?
+Opções: A) Raiz quadrada da variância / B) Soma dos valores / C) Média dos valores / D) Soma dos quadrados das diferenças 
+Resposta: A
+
+Pergunta 3: O que representa a variância em um conjunto de dados?
+Opções: A) A medida da dispersão dos dados em relação à média / B) A soma dos valores / C) O valor mais alto / D) O valor mais baixo 
+Resposta: A
+
+Pergunta 4: O que é a soma de quadrados?
+Opções: A) A soma dos quadrados das diferenças em relação à média / B) A soma dos valores / C) O quadrado da soma dos valores / D) A média dos valores quadrados 
+Resposta: A
+
+Pergunta 5: O que é um gráfico de Ogiva de Galton?
+Opções: A) Um gráfico que representa a distribuição acumulativa / B) Um gráfico de barras / C) Um gráfico de pizza / D) Um gráfico de linha 
+Resposta: A
+
+Pergunta 6: O que é um gráfico de Pareto?
+Opções: A) Um gráfico que mostra a frequência dos / dados em ordem decrescente / B) Um gráfico de dispersão / C) Um gráfico de linha / D) Um gráfico de caixa 
+Resposta: A
+
+Pergunta 7: O que é um diagrama de dispersão?
+Opções: A) Um gráfico que mostra a relação entre duas variáveis / B) Um gráfico de barras / C) Um gráfico de linha / D) Um gráfico de pizza 
+Resposta: A
+
+Pergunta 8: O que representa um gráfico BoxPlot?
+Opções: A) A distribuição de um conjunto de dados / B) A soma dos valores / C) A média dos valores / D) O gráfico de frequências 
+Resposta: A
+
+Pergunta 9: O que são outliers?
+Opções: A) Valores que estão muito distantes da maioria dos dados / B) Valores médios / C) Valores que se repetem / D) Valores que estão próximos da média 
+Resposta: A
+
+Pergunta 10: O que é correlação?
+Opções: A) A relação entre duas variáveis / B) A média dos dados / C) A soma dos dados / D) O desvio padrão 
+Resposta: A
+
+Pergunta 11: O que é um mapa de dispersão?
+Opções: A) Um gráfico que mostra a relação entre duas variáveis em um / espaço geográfico / B) Um gráfico de pizza / C) Um gráfico de linha / D) Um gráfico de barras 
+Resposta: A
+
+Pergunta 12: O que caracteriza uma correlação positiva?
+Opções: A) À medida que uma variável aumenta, a outra também aumenta / B) À medida que uma variável aumenta, a outra diminui / C) Não há relação entre as variáveis / D) As variáveis não são dependentes 
+Resposta: A
+
+Pergunta 13: O que caracteriza uma correlação negativa?
+Opções: A) À medida que uma variável aumenta, a outra diminui / B) À medida que uma variável aumenta, a outra / também aumenta / C) Não há relação entre as variáveis / D) As variáveis não são dependentes 
+Resposta: A
+
+Pergunta 14: O que significa direção nula em correlação?
+Opções: A) Não há relação entre as variáveis / B) As variáveis aumentam juntas / C) Uma variável aumenta enquanto a outra diminui / D) Uma variável não afeta a outra 
+Resposta: A
+
+Pergunta 15: O que é significância estatística?
+Opções: A) A probabilidade de que um resultado observado seja devido / ao acaso / B) A média dos resultados / C) O desvio padrão / D) A variância 
+Resposta: A
+
+Pergunta 16: O que é o coeficiente de correlação?
+Opções: A) Uma medida que indica a força e a direção da relação entre duas / variáveis / B) A média dos dados / C) O valor máximo / D) O desvio padrão 
+Resposta: A
+
+Pergunta 17: O que é tamanho de efeito?
+Opções: A) A medida da magnitude de uma relação / B) A média dos resultados / C) O desvio padrão / D) O número de observações 
+Resposta: A
+
+Pergunta 18: O que é análise de regressão linear?
+Opções: A) Uma técnica para modelar a relação entre uma variável / dependente e uma ou mais variáveis / independentes / B) Um gráfico de dispersão / C) Uma análise de frequência / D) Uma análise de variância 
+Resposta: A
+
+Pergunta 19: O que é o cálculo da regressão?
+Opções: A) O processo de encontrar a linha que melhor se ajusta aos dados / B) A soma dos dados / C) A média dos dados / D) O desvio padrão 
+Resposta: A
+
+Pergunta 20: O que é o critério de ajuste da regressão?
+Opções: A) A medida de quão bem os dados se ajustam ao modelo de / regressão / B) O número de variáveis / C) A média dos dados / D) O desvio padrão 
+Resposta: A
+
+Pergunta 21: O que é a análise de resíduos?
+Opções: A) A avaliação da diferença entre os valores observados e os / valores previstos pelo modelo / B) A soma dos valores / C) O valor médio / D) O valor máximo 
+Resposta: A
+
+Pergunta 22: O que é o coeficiente de determinação?
+Opções: A) A proporção da variabilidade total que é explicada pelo modelo / de regressão / B) O número de variáveis / C) A média dos dados / D) O desvio padrão 
+Resposta: A
+
+Pergunta 23: O que caracteriza a regressão linear múltipla?
+Opções: A) A análise de uma variável dependente com múltiplas variáveis / independentes / B) A análise de uma variável dependente com uma variável / independente / C) A soma dos dados / D) O desvio padrão 
+Resposta: A
+
+Pergunta 24: O que é a relação entre coeficiente de determinação e regressão linear?
+Opções: A) O coeficiente de determinação mede a qualidade do ajuste da / regressão linear / B) Eles não estão relacionados / C) O coeficiente de determinação é sempre zero / D) A regressão linear não tem coeficiente de determinação 
+Resposta: A
+
+Pergunta 25: O que é a regressão logística?
+Opções: A) Um método para modelar a relação entre uma variável / dependente categórica e uma ou mais / variáveis independentes / B) Um método para calcular médias / C) Um método para calcular desvios padrões / D) Um método para calcular variâncias 
+Resposta: A
+
+Pergunta 26: O que caracteriza a análise de regressão linear simples?
+Opções: A) A relação entre uma variável dependente e uma variável / independente / B) A relação entre duas variáveis independentes / C) A relação entre múltiplas variáveis / D) A soma dos dados 
+Resposta: A
+
+Pergunta 27: O que é um outlier em um conjunto de dados?
+Opções: A) Um valor que se desvia significativamente da tendência / dos dados / B) Um valor que está na média / C) Um valor que é repetido / D) Um valor que é o máximo 
+Resposta: A
+
+Pergunta 28: Como a análise de resíduos pode ser utilizada?
+Opções: A) Para avaliar a adequação de um modelo de regressão / B) Para calcular a média dos dados / C) Para determinar o valor máximo / D) Para encontrar a moda 
+Resposta: A
+
+Pergunta 29: O que significa o termo "magnitude" em um tamanho de efeito?
+Opções: A) A força ou a intensidade de um efeito observado / B) O número de variáveis / C) A média dos resultados / D) O desvio padrão 
+Resposta: A
+
+Pergunta 30: O que um gráfico BoxPlot representa?
+Opções: A) A distribuição dos dados através de quartis / B) A soma dos dados / C) O número de variáveis / D) A média dos resultados 
+Resposta: A
+
+Pergunta 31: O que significa a direção de uma correlação positiva?
+Opções: A) Ambas as variáveis aumentam juntas / B) Uma variável aumenta enquanto a outra diminui / C) Não há relação entre as variáveis / D) Uma variável não afeta a outra 
+Resposta: A
+
+Pergunta 32: O que é um gráfico de dispersão?
+Opções: A) Um gráfico que mostra a relação entre duas variáveis / B) Um gráfico de barras / C) Um gráfico de pizza / D) Um gráfico de linha 
+Resposta: A
+
+Pergunta 33: O que é a linha de tendência em um gráfico de dispersão?
+Opções: A) A linha que melhor se ajusta aos dados / B) A média dos dados / C) O valor máximo / D) O valor mínimo 
+Resposta: A
+
+Pergunta 34: O que é um gráfico de controle?
+Opções: A) Um gráfico que monitora a variabilidade de um processo ao longo / do tempo / B) Um gráfico de dispersão / C) Um gráfico de barras / D) Um gráfico de pizza 
+Resposta: A
+
+Pergunta 35: O que significa um p-valor baixo em testes de hipótese?
+Opções: A) Indica que é improvável que o resultado observado seja / devido ao acaso / B) Indica que não há relação / C) Indica que a média é zero / D) Indica que a variância é alta 
+Resposta: A
+
+Pergunta 36: O que é a normalidade em estatísticas?
+Opções: A) A distribuição dos dados segue uma curva em forma de sino / B) A soma dos dados / C) O desvio padrão / D) A variância 
+Resposta: A
+
+Pergunta 37: O que representa a média geométrica?
+Opções: A) A raiz enésima do produto de n números / B) A soma dos valores / C) O desvio padrão / D) A média aritmética 
+Resposta: A
+
+Pergunta 38: O que é um intervalo de confiança?
+Opções: A) Uma faixa de valores que provavelmente contém um / parâmetro populacional / B) A média dos dados / C) O desvio padrão / D) A variância 
+Resposta: A
+
+Pergunta 39: O que é um teste de hipóteses?
+Opções: A) Um procedimento para testar uma afirmação sobre uma / população / B) Um gráfico de barras / C) Uma média dos dados / D) Um desvio padrão 
+Resposta: A
+
+Pergunta 40: O que é a amostra em estatísticas?
+Opções: A) Um subconjunto representativo de uma população / B) A soma dos dados / C) O valor máximo / D) O valor mínimo 
+Resposta: A
